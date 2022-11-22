@@ -8,3 +8,9 @@
 2.Visual Studio-лучшая комплексная среда IDE для разработчиков .NET и C++ в Windows https://visualstudio.microsoft.com/ru/downloads/
 
 3.В Visual Studio скачать язык программирования C#.
+
+4.Добавить все папки в проект на Unity.
+
+Чтобы запустить игру необходимо:
+1.Скачать Unity Hub https://unity.com/ru/download
+2.Скачать файл exe 
